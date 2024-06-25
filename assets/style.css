@@ -11,9 +11,10 @@ body {
 
 form {
     display: block;
+    padding: 1px;
     margin-left: auto;
     margin-right: auto;
-    text-align: left;
+    text-align: center;
 }
 
 footer {
@@ -21,7 +22,10 @@ footer {
     font-size: 10px;
     background-color: green;
     padding: 10px;
-    color: white;
+    border-style: solid;
+    border-color: black;
+    border: 5px;
+     color: white;
 }
 
 img {
@@ -55,6 +59,10 @@ img {
     background-color: rgb(247, 235, 222);
     text-align: center;
     padding: 10px;
+    border: 10px;
+    border-style: solid;
+    border-color: burlywood;
+    
 
 }
 
